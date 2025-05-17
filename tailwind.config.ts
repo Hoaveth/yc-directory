@@ -16,7 +16,7 @@ const config: Config = {
       colors: {
         primary: {
           "100": "#FFE8F0",
-          DEFAULT: "hsl(var(--primary))",
+          DEFAULT: "#d84071",
           foreground: "hsl(var(--primary-foreground))",
         },
         secondary: {
